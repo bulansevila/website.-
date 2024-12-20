@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Bulan Sevila Rahma",
+    "jobTitle": "Mahasiswa",
+    "email": "mailto:bulansevilarahma@gmail.com",
+    "telephone": "+6289529828079",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tangerang",
+        "addressCountry": "ID"
+    },
+    "url": "https://www.instagram.com/xsvlrhmx/",
+    "sameAs": [
+        "https://www.instagram.com/xsvlrhmx/"
+    ],
+    "alumniOf": [
+        {
+            "@type": "EducationalOrganization",
+            "name": "SMAN 11 Kota Tangerang"
+        },
+        {
+            "@type": "EducationalOrganization",
+            "name": "MTS Almaghfiroh"
+        }
+    ],
+    "knowsAbout": ["Microsoft Office", "Microsoft Excel", "Teamwork"],
+    "image": "C:\\Users\\bulan\\Downloads\\foto cv.jpg"
+}
+</script>
